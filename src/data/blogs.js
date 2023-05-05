@@ -18,7 +18,7 @@ export const blogs = [
         image1: blog3,
         image2: "https://i.ibb.co/7bQQYkX/2.png",
         link: "https://www.google.com",
-        writer: "John Doe",
+        writer: "okwemba nickson",
         userIcon: user
     },
     {
@@ -31,7 +31,7 @@ export const blogs = [
         image1: blog2,
         image2: "https://i.ibb.co/7bQQYkX/2.png",
         link: "https://www.google.com",
-        writer: "Chris Mills",
+        writer: "okwembanickson8@gmail.com",
         userIcon: user
     },
     {
@@ -44,7 +44,7 @@ export const blogs = [
         image1: blog1,
         image2: "https://i.ibb.co/7bQQYkX/2.png",
         link: "https://www.google.com",
-        writer: "Chris Mills",
+        writer: "okwembanickson3525@gmail.com",
         userIcon: user
     },
     {
@@ -57,7 +57,7 @@ export const blogs = [
         image1: blog4,
         image2: "https://i.ibb.co/7bQQYkX/2.png",
         link: "https://www.google.com",
-        writer: "Chris Mills",
+        writer: "okwembanickson@gmail.com",
         userIcon: user
     },
     {
@@ -70,7 +70,7 @@ export const blogs = [
         image1: blog5,
         image2: "https://i.ibb.co/7bQQYkX/2.png",
         link: "https://www.google.com",
-        writer: "Chris Mills",
+        writer: "Nickson Okwemba",
         userIcon: user
     },
     {
@@ -83,7 +83,7 @@ export const blogs = [
         image1: blog2,
         image2: "https://i.ibb.co/7bQQYkX/2.png",
         link: "https://www.google.com",
-        writer: "Chris Mills",
+        writer: "Nick Okwesh",
         userIcon: user
     },
 ]
